@@ -3,6 +3,10 @@
 I'm Madhu Shankara
 Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer with expertise in Python and a knack for solving complex problems through code.
 
+
+![snake gif](https://github.com/madhushankara/madhushankara/blob/output/github-snake-dark.svg)
+
+
 🛠️ My Skills
 Programming Languages: Python , C, HTML, CSS
 Frameworks/Tools: VS Code, Google Colab, PyCharm
