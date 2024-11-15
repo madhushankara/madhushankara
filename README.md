@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer with ex
 
 
 <div align="center">
-  ![snake gif](https://github.com/madhushankara/madhushankara/blob/output/github-snake-dark.svg)
+
+![snake gif](https://github.com/madhushankara/madhushankara/blob/output/github-snake-dark.svg)
+
 </div>
 
 🛠️ My Skills
