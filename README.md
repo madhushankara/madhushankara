@@ -6,12 +6,15 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer with ex
 🛠️ My Skills
 Programming Languages: Python , C, HTML, CSS
 Frameworks/Tools: VS Code, Google Colab, PyCharm
+
 Other Skills: Power BI, Word, Excel
+
 
 💻 Top Projects
 Deep Fake Detection
 Image Caption Generator 
 📊 GitHub Stats & Animations
+
 
 🤝 Connect with Me
 📧 Email: madhushankara@hotmail.com
