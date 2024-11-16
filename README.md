@@ -1,6 +1,7 @@
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=madhushankara&theme=transparent&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=madhushankara&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
-
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushankara&theme=transparent&hide_border=true" style="width: 48%; margin-right: 2%;" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhushankara&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" style="width: 48%;" alt="GitHub Readme Stats">
+</div>
 <div align="center">
 
 ![snake gif](https://github.com/madhushankara/madhushankara/blob/output/github-snake-dark.svg)
