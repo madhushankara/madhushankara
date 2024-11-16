@@ -9,7 +9,9 @@
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhu-shankara)   [![HackerRank](https://github.com/madhushankara/madhushankara/blob/main/images/hack.png?raw=true)](https://www.hackerrank.com/profile/madhushankara)    [![GeeksforGeeks](https://github.com/madhushankara/madhushankara/blob/main/images/geek.png?raw=true)](https://www.geeksforgeeks.org/user/madhushankara/)
+<a href="https://linkedin.com/in/madhu-shankara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.hackerrank.com/profile/madhushankara" target="_blank"><img src="https://github.com/madhushankara/madhushankara/blob/main/images/hack.png?raw=true" alt="HackerRank"></a>
+<a href="https://www.geeksforgeeks.org/user/madhushankara/" target="_blank"><img src="https://github.com/madhushankara/madhushankara/blob/main/images/geek.png?raw=true" alt="GeeksforGeeks"></a>
 
 
 
